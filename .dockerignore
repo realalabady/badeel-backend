@@ -1,0 +1,11 @@
+.env
+serviceAccountKey.json
+__pycache__/
+*.pyc
+.git/
+uploads/
+*.md
+nixpacks.toml
+railway.json
+Procfile
+runtime.txt
